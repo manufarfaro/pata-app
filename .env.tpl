@@ -1,0 +1,10 @@
+NEXTAUTH_URL=http://localhost:3000
+NEXTAUTH_SECRET=nosecretsindev
+GOOGLE_MAPS_API_KEY=changeme
+GOOGLE_CLIENT_ID=changeme
+GOOGLE_CLIENT_SECRET=nosecretsindev
+GOOGLE_MAPS_API_KEY=changeme
+DATABASE_URL=postgres://dev:dev@localhost:5432/dev
+COMETCHAT_APP_ID=changeme
+COMETCHAT_AUTH_KEY=changeme
+COMETCHAT_REGION=changeme
